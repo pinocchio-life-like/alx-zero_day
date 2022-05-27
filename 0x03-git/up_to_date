@@ -7,3 +7,4 @@ $ git clone
 cd
 git branch
 git checkout
+git pull
